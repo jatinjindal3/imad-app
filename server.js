@@ -15,7 +15,7 @@ app.get('/article-one', function (req, res) {
 
 
 app.get('/article-two', function (req, res) {
-  res.send('article two is responding'));
+  res.send('article two is responding');
 });
 
 
